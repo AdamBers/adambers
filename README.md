@@ -1,6 +1,6 @@
 [![Header](https://github.com/AdamBers/adambers.git/assets/icons-examples.png)](https://www.youtube.com/c/alexeyshpavdaMain)
 
-About me
+I'am FrontEnd Developer
 
 Latest Youtube videos
 
