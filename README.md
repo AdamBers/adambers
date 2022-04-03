@@ -18,4 +18,4 @@ In production i'am using this
 
 Follow me 
 
-![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)
+![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=blue)
