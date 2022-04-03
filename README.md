@@ -1,8 +1,11 @@
 [![Header](https://github.com/AdamBers/adambers/blob/6d3bc60d17aba0031470f2782699bf7820255665/assets/Logo.png)](https://www.youtube.com/c/alexeyshpavdaMain)
 
-I'am FrontEnd Developer
+Hi! My name is Adam.
 
-Latest Youtube videos
+I'am FRONTEND DEVELOPER. I'am 31 years old and i like my job.
+I have 3 years experience in web development. Specializing in React
+
+
 
 ### Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=blue) 
@@ -11,4 +14,6 @@ Latest Youtube videos
 
 
 
-Follow me
+Follow me 
+
+![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=LinkedIn&logoColor=blue)
