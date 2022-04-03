@@ -8,7 +8,7 @@ I have 3 years experience in web development. Specializing in React
 
 
 In production i'am using this 
-###Languages & Tools
+### Languages & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=blue) 
 ![React](https://img.shields.io/badge/-React-5ed3f3?style=for-the-badge&logo=React&logoColor=blue) 
