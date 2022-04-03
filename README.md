@@ -1,4 +1,4 @@
-[![Header](https://github.com/AdamBers/adambers/blob/f254106b284e20170dca482bf9d6c4422bc201d6/assets/Logo2.png)](https://www.youtube.com/c/alexeyshpavdaMain)
+[![Header](https://github.com/AdamBers/adambers/blob/c4c279c5e588cf96f3fc768f16f51167db428cbd/assets/Logo1.png)](https://www.youtube.com/c/alexeyshpavdaMain)
 
 Hi! My name is Adam.
 
