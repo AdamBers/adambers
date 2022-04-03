@@ -1,4 +1,4 @@
-[![Header](https://github.com/AdamBers/adambers/blob/c82007d25cc4d9d259967f031a6cef8902476429/assets/Logo.png)](https://www.youtube.com/c/alexeyshpavdaMain)
+[![Header](https://github.com/AdamBers/adambers/blob/50a95df44458d4ca373ef3be55e2dbc692ab3a89/assets/Logo.png)](https://www.youtube.com/c/alexeyshpavdaMain)
 
 I'am FrontEnd Developer
 
