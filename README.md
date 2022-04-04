@@ -1,13 +1,11 @@
 [![Header](https://github.com/AdamBers/adambers/blob/659e8c2a286815fb0e898e8ab7a0329bff0586e6/assets/Logo.png)](https://github.com/AdamBers)
 
+
+### About me
 Hi! My name is Adam.
-
-I'am frontend developer. I'am 31 years old and i like my job.
-I have 3 years experience in web development. Specializing in React
+I'am frontend developer. I have 3 years experience in web development and i like my job. Specializing in React
 
 
-
-In production i'am using this 
 ### Languages & Tools
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=white) 
