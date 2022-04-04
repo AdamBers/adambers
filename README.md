@@ -8,6 +8,8 @@ I have 3 years experience in web development and i like my job.
 Specializing in React-JS
 
 
+
+
 ### Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-5ed3f3?style=for-the-badge&logo=React&logoColor=white) 
