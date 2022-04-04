@@ -25,7 +25,7 @@ Specializing in React-JS
 
 
 ### Portfolio
-Descriptions and screenshots of project you can find in their README files
+Descriptions and screenshots of project you can find in their README.md files
 - Приложение контактов [код](https://github.com/musovvir/app-contacts) |
 
 ### Follow me 
