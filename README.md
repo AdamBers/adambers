@@ -9,10 +9,10 @@ Specializing in React-JS
 
 
 ### Portfolio
+(descriptions and screenshots of project you can find in their README files)
 - Books library application [code](https://github.com/AdamBers/books)
 - Game store [code](https://github.com/AdamBers/game-store)
-- Link shortener app [code](https://github.com/AdamBers/mern)   
-Descriptions and screenshots of project you can find in their README files
+- Link shortener app [code](https://github.com/AdamBers/mern)
 
 
 
