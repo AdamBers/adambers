@@ -4,7 +4,7 @@
 Hi! My name is Adam. I'am frontend developer.  
 I have 3 years experience in web development and i like my job. Specializing in React-JS
 
-### Portfolio
+### My Projects
 (descriptions and screenshots of project you can find in their README files)
 - [Books library application](https://github.com/AdamBers/books)
 - [Game store](https://github.com/AdamBers/game-store)
