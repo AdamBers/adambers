@@ -1,20 +1,14 @@
 [![Header](https://github.com/AdamBers/adambers/blob/659e8c2a286815fb0e898e8ab7a0329bff0586e6/assets/Logo.png)](https://github.com/AdamBers)
 
-
 ### About me
-Hi! My name is Adam.  
-I'am frontend developer.  
-I have 3 years experience in web development and i like my job.  
-Specializing in React-JS  
-
+Hi! My name is Adam. I'am frontend developer.  
+I have 3 years experience in web development and i like my job. Specializing in React-JS
 
 ### Portfolio
 (descriptions and screenshots of project you can find in their README files)
 - Books library application [code](https://github.com/AdamBers/books)
 - Game store [code](https://github.com/AdamBers/game-store)
 - Link shortener app [code](https://github.com/AdamBers/mern)
-
-
 
 ### Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -30,9 +24,6 @@ Specializing in React-JS
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white) 
 ![Redux-thunk](https://img.shields.io/badge/-Redux_thunk-7248B6?style=for-the-badge&logo=Redux&logoColor=white) 
 ![GIT](https://img.shields.io/badge/-GIT-E94E31?style=for-the-badge&logo=GIT&logoColor=white)
-
-
-
 
 ### Follow me 
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AdamBers)
