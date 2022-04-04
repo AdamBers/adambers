@@ -4,9 +4,9 @@ I have 3 years experience in web development and i like my job. Specializing in 
 
 ### Portfolio
 (descriptions and screenshots of project you can find in their README files)
-- Books library application [code](https://github.com/AdamBers/books)
-- Game store [code](https://github.com/AdamBers/game-store)
-- Link shortener app [code](https://github.com/AdamBers/mern)
+- [Books library application](https://github.com/AdamBers/books)
+- [Game store](https://github.com/AdamBers/game-store)
+- [Link shortener app](https://github.com/AdamBers/mern)
 
 ### Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=white) 
