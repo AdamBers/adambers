@@ -1,4 +1,4 @@
-[![Header](https://github.com/AdamBers/adambers/blob/659e8c2a286815fb0e898e8ab7a0329bff0586e6/assets/Logo.png)](https://github.com/AdamBers)
+[![Header](https://github.com/AdamBers/adambers/blob/300517d873d36675bbffd1c1fd2931295d085f4b/assets/logo5.jpg)](https://github.com/AdamBers)
 
 ### About me
 Hi! My name is Adam. I'am frontend developer.  
