@@ -2,9 +2,7 @@
 
 Hi! My name is Adam.
 
-I'am frontend developer. I'am 31 years old and i like my job.
-I have 3 years experience in web development. Specializing in React
-
+I'am frontend developer. I have 3 years experience in web development and i like my job. Specializing in React
 
 
 In production i'am using this 
