@@ -2,10 +2,10 @@
 
 
 ### About me
-Hi! My name is Adam.
-I'am frontend developer. 
-I have 3 years experience in web development and i like my job. 
-Specializing in React-JS
+Hi! My name is Adam.  
+I'am frontend developer.  
+I have 3 years experience in web development and i like my job.  
+Specializing in React-JS  
 
 
 ### Languages & Tools
