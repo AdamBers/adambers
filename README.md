@@ -35,5 +35,5 @@ Descriptions and screenshots of project you can find in their README files
 
 
 ### Follow me 
-![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white) (https://t.me/AdamBers)
+![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white)(https://t.me/AdamBers)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=blue)
