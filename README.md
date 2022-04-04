@@ -1,5 +1,3 @@
-[![Header](https://github.com/AdamBers/adambers/blob/659e8c2a286815fb0e898e8ab7a0329bff0586e6/assets/Logo.png)](https://github.com/AdamBers)
-
 ### About me
 Hi! My name is Adam. I'am frontend developer.  
 I have 3 years experience in web development and i like my job. Specializing in React-JS
