@@ -8,6 +8,14 @@ I have 3 years experience in web development and i like my job.
 Specializing in React-JS  
 
 
+### Portfolio
+Descriptions and screenshots of project you can find in their README files
+- Books library application [code](https://github.com/AdamBers/books)
+- Game store [code](https://github.com/AdamBers/game-store)
+- Link shortener app [code](https://github.com/AdamBers/mern)
+
+
+
 ### Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-5ed3f3?style=for-the-badge&logo=React&logoColor=white) 
@@ -24,11 +32,6 @@ Specializing in React-JS
 ![GIT](https://img.shields.io/badge/-GIT-E94E31?style=for-the-badge&logo=GIT&logoColor=white)
 
 
-### Portfolio
-Descriptions and screenshots of project you can find in their README files
-- Books library application [code](https://github.com/AdamBers/books)
-- Game store [code](https://github.com/AdamBers/game-store)
-- Link shortener app [code](https://github.com/AdamBers/mern)
 
 
 ### Follow me 
