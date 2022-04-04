@@ -26,8 +26,11 @@ Specializing in React-JS
 
 ### Portfolio
 Descriptions and screenshots of project you can find in their README files
-- Приложение контактов [код](https://github.com/musovvir/app-contacts) |
+- Books library application [code](https://github.com/AdamBers/books)
+- Game store [code](https://github.com/AdamBers/game-store)
+- Link shortener app [code](https://github.com/AdamBers/mern)
+
 
 ### Follow me 
-![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white) 
+![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white) (https://t.me/AdamBers)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=blue)
