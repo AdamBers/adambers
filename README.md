@@ -26,7 +26,9 @@ I have 3 years experience in web development and i like my job. Specializing in 
 ![GIT](https://img.shields.io/badge/-GIT-E94E31?style=for-the-badge&logo=GIT&logoColor=white)
 
 ### Hobbies
-- Sports -   - Cinema -   - Travelling -   
+- Sports - 
+- Cinema - 
+- Travelling - 
 
 ### Follow me 
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AdamBers)
