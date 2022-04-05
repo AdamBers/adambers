@@ -25,6 +25,11 @@ I have 3 years experience in web development and i like my job. Specializing in 
 ![Redux-thunk](https://img.shields.io/badge/-Redux_thunk-7248B6?style=for-the-badge&logo=Redux&logoColor=white) 
 ![GIT](https://img.shields.io/badge/-GIT-E94E31?style=for-the-badge&logo=GIT&logoColor=white)
 
+### Hobbies
+Sports   
+Cinema   
+Travelling   
+
 ### Follow me 
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AdamBers)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/adambers/)
