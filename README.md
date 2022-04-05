@@ -1,7 +1,8 @@
 <!-- [![Header](https://github.com/AdamBers/adambers/blob/300517d873d36675bbffd1c1fd2931295d085f4b/assets/logo5.jpg)](https://github.com/AdamBers) -->
 
 ### About me
-Hi! My name is Adam. I'am working at position frontend developer in WEB95 sinse march 2021 and i like my job. Specializing in React-JS
+Hi! My name is Adam. I'am working at position frontend developer in WEB95 since   
+march 2021 and i like my job. Specializing in React-JS
 
 ### My Projects
 (descriptions and screenshots of projects you can find in their README files)
