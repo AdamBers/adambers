@@ -1,7 +1,7 @@
 <!-- [![Header](https://github.com/AdamBers/adambers/blob/300517d873d36675bbffd1c1fd2931295d085f4b/assets/logo5.jpg)](https://github.com/AdamBers) -->
 
 ### About me
-Hi! My name is Adam. I'am working at position frontend developer in WEB95 since   
+Hi! My name is Adam. I'am frontend developer in 'WEB95' company since   
 march 2021 and i like my job. Specializing in React JS
 
 ### My Projects
@@ -24,6 +24,9 @@ march 2021 and i like my job. Specializing in React JS
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge&logo=Bootstrap&logoColor=white) 
 ![Redux-thunk](https://img.shields.io/badge/-Redux_thunk-7248B6?style=for-the-badge&logo=Redux&logoColor=white) 
 ![GIT](https://img.shields.io/badge/-GIT-E94E31?style=for-the-badge&logo=GIT&logoColor=white)
+
+### Education
+Programming schools - "Intocode", "School-21"
 
 ### Hobbies
 Sports - Cinema - Travelling
