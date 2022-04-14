@@ -26,7 +26,7 @@ march 2021 and i like my job. Specializing in React JS
 ![GIT](https://img.shields.io/badge/-GIT-E94E31?style=for-the-badge&logo=GIT&logoColor=white)
 
 ### Education
-Programming schools - "Intocode", "School-21"
+"Intocode", "School-21" - Programming schools
 
 ### Hobbies
 Sports - Cinema - Travelling
