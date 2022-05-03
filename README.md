@@ -2,7 +2,7 @@
 
 ### About me
 Hi! My name is Adam. I'am frontend developer in 'WEB95' company since   
-march 2021 and i like my job. Specializing in React JS
+march 2021. Specializing in React JS
 
 ### My Projects
 (descriptions and screenshots of projects you can find in their README files)
