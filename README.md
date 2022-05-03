@@ -9,7 +9,7 @@ march 2021. Specializing in React JS
 - [Books library application](https://github.com/AdamBers/books)
 - [Game store](https://github.com/AdamBers/game-store)
 - [Link shortener app](https://github.com/AdamBers/mern)
-- [map module for shipping (Leaflet library)](https://github.com/AdamBers/leaflet) 
+- [Map module for shipping (Leaflet library)](https://github.com/AdamBers/leaflet) 
 
 ### Languages & Tools
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=white) 
