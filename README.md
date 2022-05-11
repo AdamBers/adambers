@@ -26,8 +26,8 @@ Hi! My name is Adam. I'am frontend developer (React JS)
 ![GIT](https://img.shields.io/badge/-GIT-E94E31?style=for-the-badge&logo=GIT&logoColor=white)
 
 ### Education
-### School-21 - Computer programming school. 
-### Moscow, Russia 2019-2021 
+School-21 - Computer programming school. 
+Moscow, Russia 2019-2021 
 24/7 open school with peer-to-peer learning model. Students realize projects on their own, there is no lectures or teachers, in order to develop a capacity to learn quickly in complete au- tonomy.
 
 ### Hobbies
