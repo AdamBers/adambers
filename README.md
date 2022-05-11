@@ -25,11 +25,6 @@ Hi! My name is Adam. I'am frontend developer (React JS)
 ![Redux-thunk](https://img.shields.io/badge/-Redux_thunk-7248B6?style=for-the-badge&logo=Redux&logoColor=white) 
 ![GIT](https://img.shields.io/badge/-GIT-E94E31?style=for-the-badge&logo=GIT&logoColor=white)
 
-### Education
-21 School - Computer programming school <br />
-Moscow, Russia 2019-2021 <br />
-24/7 open school with peer-to-peer learning model. Students realize projects on their own, there is no lectures or teachers, in order to develop a capacity to learn quickly in complete autonomy
-
 ### Hobbies
 Sports - Cinema - Travelling
 
