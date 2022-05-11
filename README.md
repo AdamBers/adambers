@@ -35,3 +35,4 @@ Sports - Cinema - Travelling
 
 ### Follow me 
 [![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AdamBers)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-white?style=for-the-badge&logo=LinkedInm&logoColor=white)](https://www.linkedin.com/in/adambers/)
