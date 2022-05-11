@@ -34,5 +34,6 @@ Moscow, Russia 2019-2021 <br />
 Sports - Cinema - Travelling
 
 ### Follow me 
-[![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AdamBers)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-white?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/adambers/)
+[![Telegram](https://img.shields.io/badge/-Telegram-white?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/AdamBers)
+
