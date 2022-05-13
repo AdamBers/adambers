@@ -11,7 +11,7 @@ Hi! My name is Adam. I'am frontend developer (React JS)
 - [Map module for shipping (Leaflet library)](https://github.com/AdamBers/leaflet) 
 
 ### Languages & Tools
-!TypeScript(https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=white) 
+[TypeScript](https://img.shields.io/badge/-TypeScript-0176c5?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/-React-5ed3f3?style=for-the-badge&logo=React&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-efd81d?style=for-the-badge&logo=JavaScript&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/-NodeJS-success?style=for-the-badge&logo=nodejs&logoColor=white) 
