@@ -5,7 +5,7 @@ Hi! My name is Adam. I'am frontend developer (React JS)
 
 ### My Projects
 (descriptions and screenshots of projects you can find in their README files)
-- [Books library application](https://github.com/AdamBers/books)
+- [Library application](https://github.com/AdamBers/books)
 - [Game store](https://github.com/AdamBers/game-store)
 - [Link shortener app](https://github.com/AdamBers/mern)
 - [Map module for shipping (Leaflet library)](https://github.com/AdamBers/leaflet) 
